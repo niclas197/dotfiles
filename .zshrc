@@ -14,3 +14,4 @@ alias rake="noglob rake"
 export LANG="de_DE.UTF-8"
 # gnuchlog vim plugin
 export EMAIL="Niclas Stock <niclas.stock@mailbox.org>"
+export PATH=$PATH:/usr/texbin
